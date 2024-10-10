@@ -26,10 +26,10 @@ Then selecting to "Request New Project", and choosing "Request an Explore ACCESS
 
 **Public overview:**  
 
-> General overview
+> General overview  
 > I'm working with Molly Chen generating many large phylogenomics trees as part of her PhD work with her advisor Dr. Laura Hug. Frequently it requires tuning parameters and trying to launch several tree attempts before finding successful settings. We would be greatly aided by being able to create and utilize several instances.
 > 
-> How we plan to use ACCESS resources
+> How we plan to use ACCESS resources  
 > We will be utilizing the ACCESS resources to spin up plain Unix environments with conda installed and attached to a shared volume. Using Jetstream2 managed through Exosphere and Horizon would be ideal.
 >  
 > Thanks for your consideration and help!
