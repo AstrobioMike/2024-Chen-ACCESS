@@ -9,7 +9,7 @@
 ## Application submission info
 
 ---
-> Submitted on 10-Oct-2024, approved ... (BIO240303).
+> Submitted on 10-Oct-2024, approved 14-Oct-2024 (BIO240303).
 ---
 
 Submitted through ACCESS: https://access-ci.org/
@@ -56,11 +56,8 @@ Clicked SUBMIT
 
 ## After getting accepted
 
-coming soon
-
-
-<!-- ### Transferring credits from ACCESS to Jetstream2
-Once approved, and logged in, needed this page (https://allocations.access-ci.org/requests) in order to transfer ACCESS credits to a specific resource. For the appropriate allocation/Project, selected "Credits + Resources", then the text box that initially says "Add a resource to your exchange...", then selected "Indiana Jetstream2 CPU", then entered 190,000. Then for "Indiana Jetstream2 Storage" added the remaining 10,000, giving 10 TB of shared storage to use. -->
+### Transferring credits from ACCESS to Jetstream2
+Once approved, and logged in, needed this page (https://allocations.access-ci.org/requests) in order to transfer ACCESS credits to a specific resource. For the appropriate allocation/Project, selected "Credits + Resources", then the text box that initially says "Add a resource to your exchange...", then selected "Indiana Jetstream2 CPU", then entered 190,000. Then for "Indiana Jetstream2 Storage" added the remaining 10,000, giving 10 TB of shared storage to use. And just put a note saying "Will enable large-scale phylogenomics.", then clicked "Submit for Approval".
 
 ---
 
