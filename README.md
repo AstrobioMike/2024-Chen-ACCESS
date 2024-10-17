@@ -63,6 +63,6 @@ Once approved, and logged in, needed this page (https://allocations.access-ci.or
 
 ## Setting up the base image and launching instances from it
 
-coming soon
+Detailed here: https://hackmd.io/@AstrobioMike/2024-Chen-Jetstream2
 
 ---
